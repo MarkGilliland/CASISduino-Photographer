@@ -1,0 +1,15 @@
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\bin\Debug\CASISduino Photographer.exe.config
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\bin\Debug\CASISduino Photographer.exe
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\bin\Debug\CASISduino Photographer.pdb
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\obj\Debug\CASISduino Photographer.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\obj\Debug\CASISduino_Photographer.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\obj\Debug\CASISduino Photographer.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\obj\Debug\CASISduino Photographer.exe
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\obj\Debug\CASISduino Photographer.pdb
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\bin\Debug\AForge.Video.DirectShow.dll
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\bin\Debug\AForge.Video.dll
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\bin\Debug\AForge.dll
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\bin\Debug\AForge.Video.xml
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\bin\Debug\AForge.Video.DirectShow.xml
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\bin\Debug\AForge.xml
+E:\Documents\Visual Studio 2015\Projects\CASISduino Photographer\CASISduino Photographer\obj\Debug\CASISduino_Photographer.Form1.resources
